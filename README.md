@@ -1,3 +1,3 @@
 # TableView
-TableView 연습\n
+TableView 연습. 
 git도 어렵다....
