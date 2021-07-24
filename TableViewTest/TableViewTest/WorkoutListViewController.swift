@@ -46,7 +46,16 @@ class WorkoutListViewController: UITableViewController {
         
         return cell
     }
-
+    
+//    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+//        let destination = segue.destination //as? WorkoutListViewController
+//
+//        if let workoutDetailViewController = destination as? WorkoutDetailViewController , let index = tableView.indexPathForSelectedRow?.row {
+//
+//            workoutDetailViewController.name = workout[index]
+//        }
+//    }
+//
 
 }
 

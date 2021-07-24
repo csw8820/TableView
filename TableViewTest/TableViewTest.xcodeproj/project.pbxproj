@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30699FC826A286C800E45132 /* WorkoutDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30699FC726A286C800E45132 /* WorkoutDetailViewController.swift */; };
 		30AB3B3F269FE3C600A6974F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB3B3E269FE3C600A6974F /* AppDelegate.swift */; };
 		30AB3B41269FE3C600A6974F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB3B40269FE3C600A6974F /* SceneDelegate.swift */; };
 		30AB3B43269FE3C600A6974F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB3B42269FE3C600A6974F /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30699FC726A286C800E45132 /* WorkoutDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutDetailViewController.swift; sourceTree = "<group>"; };
 		30AB3B3B269FE3C600A6974F /* TableViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30AB3B3E269FE3C600A6974F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		30AB3B40269FE3C600A6974F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				30AB3B42269FE3C600A6974F /* ViewController.swift */,
 				30AB3B5726A0058700A6974F /* Workout.swift */,
 				30AB3B53269FE54300A6974F /* WorkoutListViewController.swift */,
+				30699FC726A286C800E45132 /* WorkoutDetailViewController.swift */,
 				30AB3B44269FE3C600A6974F /* Main.storyboard */,
 				30AB3B47269FE3C600A6974F /* Assets.xcassets */,
 				30AB3B49269FE3C600A6974F /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 				30AB3B41269FE3C600A6974F /* SceneDelegate.swift in Sources */,
 				30AB3B54269FE54300A6974F /* WorkoutListViewController.swift in Sources */,
 				30AB3B56269FE80200A6974F /* RawData.swift in Sources */,
+				30699FC826A286C800E45132 /* WorkoutDetailViewController.swift in Sources */,
 				30AB3B5826A0058700A6974F /* Workout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
